@@ -15,7 +15,7 @@ export default function AppRouterBasicsPost() {
   if (!post) notFound();
 
   return (
-    <div className="flex flex-col flex-1 items-center bg-zinc-50 font-sans dark:bg-black">
+    <div className="flex flex-col flex-1 items-center bg-white font-sans dark:bg-black">
       <article className="flex w-full max-w-3xl flex-1 flex-col gap-8 px-6 py-16 sm:px-8 sm:py-24">
         <header className="flex flex-col gap-4 border-b border-zinc-200 pb-8 dark:border-zinc-800">
           <p className="text-sm font-medium text-zinc-500 dark:text-zinc-400">

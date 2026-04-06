@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 
 export default function NotFound() {
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 px-6 py-24 font-sans dark:bg-black">
+    <div className="flex flex-col flex-1 items-center justify-center bg-white px-6 py-24 font-sans dark:bg-black">
       <main className="flex w-full max-w-lg flex-col items-center gap-8 text-center">
         <p className="text-8xl font-semibold tabular-nums tracking-tighter text-zinc-200 dark:text-zinc-800 sm:text-9xl">
           404
